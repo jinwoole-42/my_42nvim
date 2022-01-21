@@ -8,8 +8,9 @@
 1. installer 실행 (bash installer.sh / sh installer.sh 택 1)
 2. alias 등록(선택)
 3. nvim 실행, :PlugInstall 명령어 입력, 안되면 nvim 다시 실행
-4. 코딩
-5. 삭제는 uninstaller 실행. (neovim과 .config 폴더 삭제)
+4. [coc.nvim]참고, 사용하는 언어에 맞는 extension 다운로드
+5. 코딩
+6. 삭제는 uninstaller 실행. (neovim과 .config 폴더 삭제)
 
 ### 설치된 플러그인, 단축키, 사용 팁   
 ---
