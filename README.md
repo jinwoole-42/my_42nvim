@@ -15,12 +15,12 @@
 ---
 1. [delimitMate] : 괄호 자동 완성
 2. [vim-airline] : 아래 반짝반짝
-3. [asyncrum.vim] : 
-4. [nerdtree]
-5. [coc.nvim]
+3. [asyncrum.vim] : vim에서 바로 터미널을 씁시다.
+4. [nerdtree] : 훌륭한 파일 탐색기
+5. [coc.nvim] : 자동화는 옳다.
 ---  
 1. NERDTreeToggle(파일 탐색기) : Ctrl + e(Explorer). 
-2. 터미널 (copen, cclose, Asyncrun 활용) : Ctrl + t(Terminal)
+2. 터미널 (copen, cclose, Asyncrun 활용) : Ctrl + t(Terminal). / :Asynrun + 쉘 명령어
 3. 창 간 전환은 편한 명령어 및 플러그인 사용(ex. Ctrl + w + w), 하단 airline으로 쉽게 확인 가능
 ---
 ### 왜 만들었을까요?
