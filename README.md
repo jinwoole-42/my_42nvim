@@ -5,6 +5,7 @@
 ---  
 조건 : [brew]가 설치된 맥. 요즘 brew는 리눅스도 지원한다니 될 것 같음.   
 
+0. 클론 혹은 다운
 1. installer 실행 (bash installer.sh / sh installer.sh 택 1)
 2. alias 등록(선택)
 3. nvim 실행, :PlugInstall 명령어 입력, 안되면 nvim 다시 실행
