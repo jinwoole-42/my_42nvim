@@ -1,4 +1,4 @@
-# my_nvim_setting
+# my_nvim
 
 ### 낮선 야생의 ssh환경에서 빠른 nvim setting
 ### nvim은 스스로 설치. 아니 그냥 다 해볼까
