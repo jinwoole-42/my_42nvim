@@ -6,5 +6,5 @@
 ### 다행히도 아무런 문제가 없다면, :PlugInstall로 마무리하면 될듯싶다.
 
 
-#### NERDTreeToggle(파일 탐색기) : Ctrl + e
-#### 터미널 : copen, cclose, a
+#### NERDTreeToggle(파일 탐색기) : Ctrl + e(Explorer)
+#### 터미널 (copen, cclose, asyncrun 활용) : Ctrl + t(Terminal)
