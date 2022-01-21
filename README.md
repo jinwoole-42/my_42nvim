@@ -36,7 +36,7 @@
 ### 예정된 업데이트  
 1. 터미널 전환은 내부함수로 구현. 보기 안좋으니 다른 방법으로 구현할까 생각중
 2. (나한테)유용한 플러그인 몇 개 더 집어넣을 예정
-3. TabNine을 기본으로 탑재하면 어떨까
+3. 이런 세상에 set nu를 깜빡했다
 
 [brew]:https://brew.sh/index_ko
 [delimitMate]:https://github.com/Raimondi/delimitMate
