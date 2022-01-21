@@ -1,6 +1,6 @@
 # my_nvim_setting
 
-### 낮선 야생의 42ssh환경에서 빠른 nvim setting
+### 낮선 야생의 ssh환경에서 빠른 nvim setting
 ### nvim은 스스로 설치. 아니 그냥 다 해볼까
 ### brew가 설치된 맥 필요
 ### 될까 모르겟다. 홈 디렉토리에서 쉘 스크립트 실행
