@@ -7,4 +7,5 @@
 
 
 #### NERDTreeToggle(파일 탐색기) : Ctrl + e(Explorer)
-#### 터미널 (copen, cclose, asyncrun 활용) : Ctrl + t(Terminal)
+#### 터미널 (copen, cclose, Asyncrun 활용) : Ctrl + t(Terminal)
+#### 창 간 전환 확인은 하단 airline보고 합시다.
