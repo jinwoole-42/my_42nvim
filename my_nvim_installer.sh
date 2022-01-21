@@ -2,8 +2,12 @@ brew install neovim
 brew install node.js
 brew install python3
 
+#vim-plug 설치
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+#Yarn 설치
+curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+
 
 mkdir ~/.config
 mkdir ~/.config/nvim
