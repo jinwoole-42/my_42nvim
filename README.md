@@ -48,6 +48,8 @@
 2. 42클러스터 가서 되나 실험해보고, 안되는 부분 있으면 뭐 따로 만들어야지
 3. uninstall에 ctags 및 기타등등 삭제 추가. 파이썬 등은 건강에 좋으니 남겨놓자.
 4. 42헤더, norminette 체크 추가
+5. 자동으로 github의 최신 init.vim 적용할 수 있게 인스톨러 설정
+6. 할때마다 init.vim 
 
 [brew]:https://brew.sh/index_ko
 [delimitMate]:https://github.com/Raimondi/delimitMate
