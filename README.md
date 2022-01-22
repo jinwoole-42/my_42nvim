@@ -12,7 +12,7 @@
 4. alias 등록
 5. [coc.nvim]참고, 사용하는 언어에 맞는 extension 다운로드  
  -------필수-------
-7. 코딩
+7. 코딩  
 -------선택-------
 9. 삭제는 uninstaller 실행. (neovim과 .config 폴더 삭제)
 
