@@ -1,6 +1,6 @@
 # my_42nvim
 구석기마냥 조악하게 만들어진 nvim installer  
-하지만 (내가)쓰기는 쉽지  
+그냥 vscode 씁시다.  
 ### 설치법
 ---  
 설치조건 : [brew]가 설치된 맥. 요즘 리눅스도 brew 된다니 될 것 같음.   
@@ -16,9 +16,10 @@
 
 ### 설치된 플러그인, 단축키, 사용 팁   
 ---
+사용법은 각 github 참고  
 1. [delimitMate] : 괄호 자동 완성
 2. [vim-airline] : 아래 반짝반짝
-3. [asyncrum.vim] : vim에서 바로 터미널을 씁시다. 경로 
+3. [asyncrum.vim] : vim에서 바로 터미널을 씁시다.
 4. [nerdtree] : 훌륭한 파일 탐색기
 5. [coc.nvim] : 자동화는 옳다.
 6. [ale] : 문법 검사기
