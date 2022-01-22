@@ -3,7 +3,7 @@
 하지만 (내가)쓰기는 쉽지  
 ### 설치법
 ---  
-설치조건 : [brew]가 설치된 맥. 요즘 brew는 리눅스도 지원한다니 될 것 같음.   
+설치조건 : [brew]가 설치된 맥. 요즘 리눅스도 brew 된다니 될 것 같음.   
 
 0. 클론 혹은 다운
 1. installer 실행 (bash installer.sh / sh installer.sh 택 1)
