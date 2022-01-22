@@ -21,11 +21,14 @@
 3. [asyncrum.vim] : vim에서 바로 터미널을 씁시다.
 4. [nerdtree] : 훌륭한 파일 탐색기
 5. [coc.nvim] : 자동화는 옳다.
+6. [ale] : 문법 검사기
+7. [tagbar] : 함수, 변수 등등 보여줌
 ---  
 1. NERDTreeToggle(파일 탐색기) : Ctrl + e(Explorer). 
 2. 터미널 (copen, cclose, Asyncrun 활용) : Ctrl + t(Terminal). / :Asynrun + 쉘 명령어
 3. 창 간 전환은 편한 명령어 및 플러그인 사용(ex. Ctrl + w + w), 하단 airline으로 쉽게 확인 가능
-4. 커스텀은 .config/nvim/init.vim 수정. installer 실행 전 파일 수정도 가능
+4. tagbar
+5. 커스텀은 .config/nvim/init.vim 수정. installer 실행 전 파일 수정도 가능
 ---
 ### 왜 만들었을까요?
 1. vim을 쓸 날이 올 수도 있다. ssh로 집에 있는 맥에 원격접속을 한다든가...
@@ -46,3 +49,4 @@
 [asyncrum.vim]:https://github.com/skywind3000/asyncrun.vim
 [nerdtree]:https://github.com/preservim/nerdtree
 [coc.nvim]:https://github.com/neoclide/coc.nvim
+[ale]:https://github.com/dense-analysis/ale
