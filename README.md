@@ -23,6 +23,7 @@
 5. [coc.nvim] : 자동화는 옳다.
 6. [ale] : 문법 검사기
 7. [tagbar] : 함수, 변수 등등 보여줌
+8. [vim-42header] : 42헤더. Also, don't forget to set your $USER and $MAIL variables.  
 ---  
 1. NERDTreeToggle(파일 탐색기) : Ctrl + e(Explorer). 
 2. 터미널 (copen, cclose, Asyncrun 활용) : Ctrl + t(Terminal). / :Asynrun + 쉘 명령어
@@ -51,3 +52,4 @@
 [coc.nvim]:https://github.com/neoclide/coc.nvim
 [ale]:https://github.com/dense-analysis/ale
 [tagbar]:https://github.com/preservim/tagbar
+[vim-42header]:https://github.com/pbondoer/vim-42header
