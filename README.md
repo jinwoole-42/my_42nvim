@@ -18,7 +18,7 @@
 ---
 1. [delimitMate] : 괄호 자동 완성
 2. [vim-airline] : 아래 반짝반짝
-3. [asyncrum.vim] : vim에서 바로 터미널을 씁시다.
+3. [asyncrum.vim] : vim에서 바로 터미널을 씁시다. 경로 
 4. [nerdtree] : 훌륭한 파일 탐색기
 5. [coc.nvim] : 자동화는 옳다.
 6. [ale] : 문법 검사기
