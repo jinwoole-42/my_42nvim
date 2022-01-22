@@ -41,6 +41,7 @@
 1. (나한테)유용한 플러그인 몇 개 더 집어넣을 예정
 2. 42클러스터 가서 되나 실험해보고, 안되는 부분 있으면 뭐 따로 만들어야지
 3. uninstall에 ctags 및 기타등등 삭제 추가. 파이썬 등은 건강에 좋으니 남겨놓자.
+4. 42헤더, norminette 체크 추가
 
 [brew]:https://brew.sh/index_ko
 [delimitMate]:https://github.com/Raimondi/delimitMate
