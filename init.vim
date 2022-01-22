@@ -1,3 +1,4 @@
+"=======================Plugins=========================
 call plug#begin('~/AppData/Local/nvim/plugged')
 
 Plug 'Raimondi/delimitMate'
@@ -5,11 +6,22 @@ Plug 'vim-airline/vim-airline'
 Plug 'skywind3000/asyncrun.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'dense-analysis/ale'
+Plug 'preservim/tagbar'
 
 call plug#end()
 
-map <C-e> :NERDTreeToggle<CR>
+"======================Settings=========================
+colorscheme elflord
 
+set nu
+set autoindent
+set cindent
+filetype plugin indent on
+syntax on
+
+"=====================Shortcuts=========================
+map <C-e> :NERDTreeToggle<CR>
 
 let g:quickfixed = 0
 func MyToggleQuickFix()
@@ -22,3 +34,4 @@ func MyToggleQuickFix()
 endfunc
 
 map <C-t> :call MyToggleQuickFix()<CR>
+map <C-g> :TagbarToggle<CR>
