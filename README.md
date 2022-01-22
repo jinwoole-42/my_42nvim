@@ -32,7 +32,7 @@
 2. 터미널 (copen, cclose, Asyncrun 활용) : Ctrl + t(Terminal). / :Asynrun + 쉘 명령어
 3. 창 간 전환은 편한 명령어 및 플러그인 사용(ex. Ctrl + w + w), 하단 airline으로 무슨 창에 있나 쉽게 확인 가능
 4. tagbar 단축키 : Ctrl + g
-5. 커스텀은 .config/nvim/init.vim 수정. installer 실행 전 파일 수정도 가능
+5. 커스텀은 .config/nvim/init.vim 수정
 ---
 ### 왜 만들었을까요?
 1. 마우스 없이 맥북만 들고 어슬렁거리다가 코딩하기엔 vim이 나쁘지 않다.
