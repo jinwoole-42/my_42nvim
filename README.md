@@ -1,4 +1,4 @@
-# my_nvim
+# my_42nvim
 구석기마냥 조악하게 만들어진 nvim installer  
 하지만 (내가)쓰기는 쉽지  
 ### 설치법
