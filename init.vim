@@ -15,6 +15,7 @@ call plug#end()
 colorscheme elflord
 
 set nu
+set encoding=utf-8
 set autoindent
 set cindent
 filetype plugin indent on
