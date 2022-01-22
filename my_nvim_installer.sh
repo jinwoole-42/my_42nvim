@@ -1,6 +1,5 @@
 brew install neovim
 brew install node.js
-brew install python3
 
 #ctags 설치 - for tagbar
 brew install --HEAD universal-ctags/universal-ctags/universal-ctags
