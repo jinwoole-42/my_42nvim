@@ -27,7 +27,7 @@
 1. NERDTreeToggle(파일 탐색기) : Ctrl + e(Explorer). 
 2. 터미널 (copen, cclose, Asyncrun 활용) : Ctrl + t(Terminal). / :Asynrun + 쉘 명령어
 3. 창 간 전환은 편한 명령어 및 플러그인 사용(ex. Ctrl + w + w), 하단 airline으로 쉽게 확인 가능
-4. tagbar
+4. tagbar 단축키 : Ctrl + g
 5. 커스텀은 .config/nvim/init.vim 수정. installer 실행 전 파일 수정도 가능
 ---
 ### 왜 만들었을까요?
@@ -50,3 +50,4 @@
 [nerdtree]:https://github.com/preservim/nerdtree
 [coc.nvim]:https://github.com/neoclide/coc.nvim
 [ale]:https://github.com/dense-analysis/ale
+[tagbar]:https://github.com/preservim/tagbar
