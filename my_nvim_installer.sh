@@ -13,7 +13,7 @@ curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
 mkdir ~/.config
 mkdir ~/.config/nvim
 rm ~/.config/nvim/init.vim
-mv ./init.vim ~/.config/nvim/init.vim
+cp ./init.vim ~/.config/nvim/init.vim
 
 echo --------------------------------------------------------
 echo alias vim='nvim'을 bash_profile에 등록하면 좋음
