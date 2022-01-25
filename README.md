@@ -5,7 +5,7 @@
 ---  
 설치조건 : [brew]가 설치된 맥. 요즘 리눅스도 brew 된다니 될 것 같음.   
 참고로 42에서 brew 설치하려거든 `curl https://brew.42.fr/ | bash`  
-!주의 : neovim 쓰고 있었다면 init.vim 날려버리고 설치하는 형식이니 백업 요망.  
+!주의 : neovim 쓰고 있었다면 init.vim 날려버리고 설치하는 형식이니 백업 요망. 그냥 vim은 무시  
 #### 설치 절차  
 0. 클론 혹은 다운로드
 1. installer 실행 (bash my_nvim_installer.sh / sh my_nvim_installer.sh 택 1)
