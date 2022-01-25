@@ -28,7 +28,7 @@
 5. [coc.nvim] : 자동화는 옳다.
 6. [ale] : 문법 검사기
 7. [tagbar] : 함수, 변수 등등 보여줌
-8. 아직 push x [vim-42header] : 42헤더. Also, don't forget to set your $USER and $MAIL variables.  
+8. [vim-42header] : 42헤더. don't forget to set your $USER and $MAIL variables.  
 ---  
 1. NERDTreeToggle(파일 탐색기) : Ctrl + e(Explorer). 
 2. 터미널 (copen, cclose, Asyncrun 활용) : Ctrl + t(Terminal). / :Asynrun + 쉘 명령어
@@ -45,13 +45,13 @@
 ---
 ### 업데이트 내역
 v.1.125  
-기본 세팅 42vim으로 변경   
+기본 세팅 42vim으로 변경+헤더 추가   
 42클러스터에서 작동 확인  
 
 ---
 ### 예정된 업데이트  
 1. (나한테)유용한 플러그인 몇 개 더 집어넣을 예정
-2. 42헤더, norminette 체크 추가
+2. norminette 체크 추가
 3. 설치 시간이 너무 오래걸리므로 ssh 평가용 경량화 인스톨러도 만들기 전에 멍청한 코로나가 끝났으면  
 
 [brew]:https://brew.sh/index_ko
