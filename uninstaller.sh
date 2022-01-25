@@ -4,7 +4,7 @@ if [ "$RESP" = "y" ]; then
   brew uninstall universal-ctags
   rm -rf ~/.config
   rm -rf ~/.yarn
-  echo "삭제 완료"
+  echo "(대체로)삭제 완료"
 else
-  echo "취소"
+  echo "삭제 취소"
 fi

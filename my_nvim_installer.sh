@@ -9,7 +9,6 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 #Yarn 설치
 curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
 
-
 mkdir ~/.config
 mkdir ~/.config/nvim
 rm ~/.config/nvim/init.vim

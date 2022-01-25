@@ -8,9 +8,9 @@ Plug 'scrooloose/nerdtree'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'dense-analysis/ale'
 Plug 'preservim/tagbar'
+Plug 'pbondoer/vim-42header'
 
 call plug#end()
-
 "======================Settings=========================
 colorscheme elflord
 
@@ -74,4 +74,3 @@ set incsearch
 set showmatch
 set hlsearch
 
-endif
