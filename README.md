@@ -8,7 +8,7 @@
 !주의 : neovim 쓰고 있었다면 init.vim 날려버리고 설치하는 형식이니 백업 요망. 그냥 vim은 무시  
 #### 설치 절차  
 0. 클론 혹은 다운로드
-1. installer 실행 (bash my_nvim_installer.sh / sh my_nvim_installer.sh 택 1)
+1. installer 실행 (sh my_nvim_installer.sh)
 2. nvim 실행, :PlugInstall 명령어 입력, 안되면 nvim 재시작   
 -------선택-------
 4. alias 등록
