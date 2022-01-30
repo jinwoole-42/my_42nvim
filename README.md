@@ -54,7 +54,8 @@ v.1.125
 ### 예정된 업데이트  
 1. (나한테)유용한 플러그인 몇 개 더 집어넣을 예정
 2. norminette 체크 추가
-3. 설치 시간이 너무 오래걸리므로 ssh 평가용 경량화 인스톨러도 만들기 전에 멍청한 코로나가 끝났으면  
+3. 설치 시간이 너무 오래걸리므로 ssh 평가용 경량화 인스톨러도 만들기 전에 멍청한 코로나가 끝났으면 
+4. neovim은 버퍼에서 그냥 터미널을 쓸 수 있네 단축키 설정하고 반영하자
 
 [brew]:https://brew.sh/index_ko
 [delimitMate]:https://github.com/Raimondi/delimitMate
