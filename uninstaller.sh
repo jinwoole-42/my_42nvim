@@ -2,7 +2,8 @@ read -p "neovim과 init.vim, yarn폴더가 삭제됩니다. 진행하시겠습�
 if [ "$RESP" = "y" ]; then
   brew uninstall neovim
   brew uninstall universal-ctags
-  rm ~/.config/init.vim
+  rm ~/.config/nvim/init.vim
+  rm -rm ~/.config/coc
   rm -rf ~/.yarn
   echo "(대체로)삭제 완료"
 else
