@@ -16,7 +16,7 @@
  -------필수-------
 7. 코딩  
 -------선택-------
-9. 삭제는 uninstaller 실행. (neovim과 .config 폴더 삭제)
+9. 삭제는 uninstaller 실행  
 
 ### 설치된 플러그인, 단축키, 사용 팁   
 ---
@@ -29,7 +29,8 @@
 6. [vim-42header] : 42헤더. don't forget to set your USER and MAIL variables in .zshrc  
 ---  
 1. NERDTreeToggle(파일 탐색기) : Ctrl + e(Explorer). 
-2. 터미널 : Ctrl + t(Terminal).  
+2. 터미널 : Ctrl + t(Terminal)  
+ 2-1. 터미널 명령어 실행 후 Esc누르거나 마우스 휠로 해서 그 내용을 탐색할 수 있게까진 했는데,   
 3. 창 간 전환은 편한 명령어 및 플러그인 사용(ex. Ctrl + w + w), 하단 airline으로 무슨 창에 있나 쉽게 확인 가능
 4. 커스텀은 .config/nvim/init.vim 수정
 5. 헤더는 :Stdheader 동일
