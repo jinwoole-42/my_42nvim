@@ -30,7 +30,7 @@
 ---  
 1. NERDTreeToggle(파일 탐색기) : Ctrl + e(Explorer). 
 2. 터미널 : Ctrl + t(Terminal)  
- 2-1. 터미널 명령어 실행 후 Esc누르거나 마우스 휠로 해서 그 내용을 탐색할 수 있게까진 했는데,   
+ 2-1. 터미널 실행 후 위쪽 내용 보고싶으면 Esc 혹은 마우스휠. 다시 터미널 명령어 입력하고 싶으면 i
 3. 창 간 전환은 편한 명령어 및 플러그인 사용(ex. Ctrl + w + w), 하단 airline으로 무슨 창에 있나 쉽게 확인 가능
 4. 커스텀은 .config/nvim/init.vim 수정
 5. 헤더는 :Stdheader 동일
