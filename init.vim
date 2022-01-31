@@ -43,6 +43,8 @@ endfunction
 nnoremap <C-t> :call Term_toggle(10)<cr>
 tnoremap <C-t> <C-\><C-n>:call Term_toggle(10)<cr>
 
+tnoremap <Esc> <C-\><C-n>
+
 map <C-g> :TagbarToggle<CR>
 
 "===================42vim settings=====================
