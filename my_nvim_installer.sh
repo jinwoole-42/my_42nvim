@@ -13,7 +13,7 @@ rm ~/.config/nvim/init.vim
 cp ./init.vim ~/.config/nvim/init.vim
 
 echo --------------------------------------------------------
-echo alias vim='nvim'을 bash_profile에 등록하면 좋음
-echo 단축키 및 사용법 github README.md 참고
-echo 커스텀 하고싶으면 .config/nvim/init.vim 수정
+echo     alias vim='nvim'을 bash_profile에 등록하면 좋음
+echo     단축키 및 사용법 github README.md 참고
+echo     커스텀 하고싶으면 .config/nvim/init.vim 수정
 echo --------------------------------------------------------
