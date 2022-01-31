@@ -43,8 +43,6 @@ endfunction
 nnoremap <C-t> :call Term_toggle(10)<cr>
 tnoremap <C-t> <C-\><C-n>:call Term_toggle(10)<cr>
 
-tnoremap <Esc> <C-\><C-n>
-
 "===================42vim settings=====================
 "Do not edit this section
 
