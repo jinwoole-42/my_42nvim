@@ -44,8 +44,9 @@
 ---
 ### 업데이트 내역
 v.1.131  
-tagbar, asyrun 삭제
-neovim 기본 터미널 단축키 설정
+tagbar, asyrun 삭제  
+neovim 기본 터미널 단축키 설정  
+마우스 사용가능
 
 ---
 ### 예정된 업데이트  
