@@ -38,6 +38,7 @@ brew update
 4. [coc.nvim] : 자동화는 옳다.
 5. [ale] : 문법 검사기
 6. [vim-42header] : 42헤더. don't forget to set your USER and MAIL variables in .zshrc  
+7. [vim-devicons’] : 예쁜 아이콘  
 ---  
 1. NERDTreeToggle(파일 탐색기) : Ctrl + e(Explorer). 
 2. 터미널 : Ctrl + t(Terminal)  
@@ -73,3 +74,4 @@ tagbar, asyrun 삭제
 [coc.nvim]:https://github.com/neoclide/coc.nvim
 [ale]:https://github.com/dense-analysis/ale
 [vim-42header]:https://github.com/pbondoer/vim-42header
+[vim-devicons]:https://github.com/ryanoasis/vim-devicons
