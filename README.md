@@ -56,6 +56,8 @@ brew update
 6. ssh평가할때 설치하면 좋다.  
 ---
 ### 업데이트 내역
+v.1.322
+devicons 추가
 v.1.131  
 tagbar, asyrun 삭제  
 터미널 쓰기가 훨씬 괜찮아졌음  
