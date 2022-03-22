@@ -7,6 +7,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'dense-analysis/ale'
 Plug 'pbondoer/vim-42header'
+Plug 'ryanoasis/vim-devicons'
 
 call plug#end()
 "======================Settings=========================
