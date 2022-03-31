@@ -7,7 +7,7 @@
 참고로 42에서 brew 설치하려거든  
 `curl https://brew.42.fr/ | bash`  
 이게 안된다면...이 아니고 안되네  
-`rm -rf $HOME/.brew && git clone --depth=1 https://github.com/Homebrew/brew $HOME/.brew && echo 'export PATH=$HOME/.brew/bin:$PATH' >> $HOME/.zshrc && source $HOME/.zshrc && brew update`  rm -rf $HOME/.brew
+`rm -rf $HOME/.brew && git clone --depth=1 https://github.com/Homebrew/brew $HOME/.brew && echo 'export PATH=$HOME/.brew/bin:$PATH' >> $HOME/.zshrc && source $HOME/.zshrc && brew update`  rm -rf $HOME/.brew  
 git clone --depth=1 https://github.com/Homebrew/brew $HOME/goinfre/.brew
 echo 'export PATH=$HOME/.brew/bin:$PATH' >> $HOME/.zshrc
 source $HOME/.zshrc
