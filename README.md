@@ -7,14 +7,8 @@
 참고로 42에서 brew 설치하려거든  
 `curl https://brew.42.fr/ | bash`  
 이게 안된다면...이 아니고 안되네  
-`rm -rf $HOME/.brew && git clone --depth=1 https://github.com/Homebrew/brew $HOME/.brew && echo 'export PATH=$HOME/.brew/bin:$PATH' >> $HOME/.zshrc && source $HOME/.zshrc && brew update`  rm -rf $HOME/.brew  
+`rm -rf $HOME/.brew && git clone --depth=1 https://github.com/Homebrew/brew $HOME/.brew && echo 'export PATH=$HOME/.brew/bin:$PATH' >> $HOME/.zshrc && source $HOME/.zshrc && brew update`  
 
-
-git clone --depth=1 https://github.com/Homebrew/brew $HOME/goinfre/.brew
-echo 'export PATH=$HOME/.brew/bin:$PATH' >> $HOME/.zshrc
-source $HOME/.zshrc
-brew update
-이걸 활용해서 goinfre에 brew설치하면 더 좋다.
 ㅠ
 
 !주의 : neovim 쓰고 있었다면 init.vim 날려버리고 설치하는 형식이니 백업 요망.  
